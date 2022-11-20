@@ -1,0 +1,20 @@
+Algoritimo para travessia de modo seguro:
+Lobo, Cabra e Alfafa
+
+1. Coloque a Cabra no bote;
+2. Atravesse o rio;
+3. Deixe a Cabra na margem B (tire a cabra do bote);
+4. Aravesse o rio;
+5. Coloque o Lobo no bote;
+6. Atravesse o rio;
+7. Deixe o Lobo na margem B;
+8. Coloque a Cabra no bote;
+9. Atravesse o rio;
+10. Deixe a Cabra na margem A;
+11. Coloque a Alfafa no bote;
+12. Atravesse o rio;
+13. Deixe a Alfafa na margem B;
+14. Atravesse o rio;
+15. Coloque a Cabra no bote;
+16. Atravesse o rio;
+17. Deixe a Cabra na margem B;
